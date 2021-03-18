@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Android</string>
+    <string name="slide_1_desc">Pemrograman berbasis Java untuk membuat aplikasi pada device menggunakan sistem operasi berbasis Android.</string>
+
+    <string name="slide_2_title">Fragment</string>
+    <string name="slide_2_desc">Komponen UI yang merepresentasikan tampilan pada layar. Dapat juga disebut sub-activity</string>
+
+    <string name="slide_3_title">Intro Slider</string>
+    <string name="slide_3_desc">Menu awal yang muncul saat membuka aplikasi berupa slide yang berisi gambar dan teks.</string>
+
+    <string name="slide_4_title">Java</string>
+    <string name="slide_4_desc">Bahasa pemrograman dasar dalam sebuah pembuatan aplikasi.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
