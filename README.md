@@ -1,6 +1,6 @@
 # FragmentApp
 
-A. Fragment
+# Fragment
 
 Fragment adalah komponen UI yang mempresentasikan tampilan pada layar. Fragment juga merupakan bagian dari sebuah activity yang mana sebuah fragment tidak akan ada bila tidak ada sebuah activity karena fragment membutuhkan akses dari activity untuk dapat dijalankan.
 
